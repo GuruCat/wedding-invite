@@ -2703,10 +2703,15 @@ footer .image-divider.fixed-height{
 /*===============================================*/
 .account-title{
 	font-size: 2rem;
-	margin-top: 10px;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	background: #000000;
+	border: solid 2px grey;
+	border-radius: 12px;
 }
 .account-content{
-	margin-bottom: 20px;
+	font-size: 2rem;
 }
 
 .account-padder{
