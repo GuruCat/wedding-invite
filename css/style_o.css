@@ -1717,6 +1717,7 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 	font-family: 'THEGaeideuk',sans-serif;
 	margin-top: 5px;
 	margin-bottom: 25px;
+	color:#dfcec6;
 }
 
 
@@ -2795,7 +2796,18 @@ footer .image-divider.fixed-height{
 	font-family: 'THEGaeideuk', sans-serif;
 	font-size:1.5em; 
 	letter-spacing:2px;
-	text-shadow: 2px 2px 2px rgb(0 0 0 / 40%);
+	text-shadow: 2px 2px 2px rgb(0 0 0 / 20%);
+	background-color: rgba(0,0,0,0.4);
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#banner-couple{
+	color:#dfcec6;
+}
+#banner-place{
+	font-size:18px;
+	margin-top:5px;
 }
 
 /* ----------------------------------------------*/
@@ -3586,13 +3598,13 @@ p{
 .banner-text.withlove  {
 	margin-top: 30px;
 }
-/* #invited { display: none; } */
-#invited{
+#invited { display: none; }
+/* #invited{
 	font-family: 'THEGaeideuk', sans-serif;
 	font-size:24px;
 	margin-top:15px;
 	text-shadow: 2px 2px 2px rgb(0 0 0 / 40%);
-}
+} */
 #save-the-date{
 	padding-right:40px;
 	margin-bottom:0px;
