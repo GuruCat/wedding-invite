@@ -3166,6 +3166,7 @@ button.mfp-close, button.mfp-arrow {
 .floating-icon{
 	width: 36px;
 	height: auto;
+	z-index: 3000;
 }
 
 .bottom_right {
