@@ -14,7 +14,7 @@ $(document).ready(function() {
     });
 
     $('#youtube-streaming').click(function () {
-        window.open('https://www.youtube.com/channel/UCKoYfu4nhEXq352BFDbO0_Q', 'newWindow');
+        window.open('https://youtu.be/swneA7eiUiU', 'newWindow');
         return false;
     });
     
