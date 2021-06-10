@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
 /*==============================
 	- Template Name: FOREVER - Responsive HTML Wedding Template
 	- Author: DoubleEight
@@ -2715,6 +2715,7 @@ footer .image-divider.fixed-height{
 }
 .account-content{
 	font-size: 2rem;
+	padding-top: 20px;
 }
 
 .account-padder{
